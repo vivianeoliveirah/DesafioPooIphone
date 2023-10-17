@@ -15,7 +15,7 @@ Repodutor Musicial: tocar, pausar, selecionarMusica
 Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-**Linguagens utilizadas:**
+**Linguagem utilizada:**
 
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
